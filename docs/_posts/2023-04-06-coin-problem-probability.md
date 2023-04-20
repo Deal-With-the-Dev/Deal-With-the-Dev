@@ -5,6 +5,8 @@ date:   2023-04-06
 categories: math
 ---
 
+Update: it appears this problem is [rather more complicated](https://math.stackexchange.com/questions/4674752/probability-that-2-random-numbers-can-express-another-random-number-as-positive)
+
 If you choose 3 numbers at random, A, B, and C, what is the chance that C can be expressed as a positive integer combination of the other two? That is there is some m and n where `m*A + n*B = C`.
 
 ## The Inspiration
